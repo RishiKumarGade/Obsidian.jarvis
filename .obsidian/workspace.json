@@ -11,10 +11,14 @@
             "id": "a80be69167b12045",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Work/Projects/Mentorship platform/Schema.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Schema"
             }
           }
         ]
@@ -177,11 +181,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "735545e3f876de28",
+  "active": "a80be69167b12045",
   "lastOpenFiles": [
+    "Work/Projects/Mentorship platform/Sprint 1.md",
     "Tag Reference.md",
     "Navigate From Here.md",
-    "Work/Projects/Mentorship platform/Sprint 1.md",
     "Work/Projects/Mentorship platform/Schema.md",
     "Work/Projects/Mentorship platform/PPT.md",
     "Work/Projects/Mentorship platform/Intuition and Features.md",
