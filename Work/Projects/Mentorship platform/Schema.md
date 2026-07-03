@@ -175,35 +175,13 @@ Description
 
 DEFAULT_CAPACITY = 5
 
-MIN_GRADE_TO_BE_MENTOR = G2
+MIN_GRADE_TO_BE_MENTOR = gradecode
 
 PENDING_REQUEST_LIMIT = 10
 
 PROFILE_FRESHNESS_DAYS = 180
 
 DESIRED_CADENCE = MONTHLY
-
-
-##### AuditLog
-----------------------------
-
-AuditId UUID PK
-
-EmployeeKey FK
-
-PermissionId FK
-
-EntityName
-
-EntityId
-
-Action
-
-OldValue
-
-NewValue
-
-Timestamp
 
 
 
