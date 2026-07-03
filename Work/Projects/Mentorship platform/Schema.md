@@ -40,10 +40,9 @@ CREATE TABLE role_permission (
 );
 
 -- ---------------------------------------------------------------------
--- Identity
--- employee_key is the stable, IdP-agnostic principal id. In Phase 2 the
--- sso.pal.tech token's subject/email maps to this row (JIT provisioning);
--- nothing downstream changes.
+- Identity
+-  employee_key is the stable, IdP-agnostic principal id. In Phase 2 the
+- sso.pal.tech token's subject/email maps to this row (JIT provisioning); nothing downstream changes.
 -- ---------------------------------------------------------------------
 
 CREATE TABLE user_profile (
@@ -77,7 +76,7 @@ CREATE TABLE user_role (
 );
 
 -- ---------------------------------------------------------------------
--- Skills master + suggestions
+- Skills master + suggestions
 -- ---------------------------------------------------------------------
 
 CREATE TABLE skill (
@@ -101,7 +100,7 @@ CREATE TABLE skill_suggestion (
 );
 
 -- ---------------------------------------------------------------------
--- Profiles
+- Profiles
 -- ---------------------------------------------------------------------
 
 CREATE TABLE mentor_profile (
@@ -143,7 +142,7 @@ CREATE TABLE mentee_sought_skill (
 );
 
 -- ---------------------------------------------------------------------
--- Programme configuration (typed key-value; validated in the service layer)
+- Programme configuration (typed key-value; validated in the service layer)
 -- ---------------------------------------------------------------------
 
 CREATE TABLE app_config (
@@ -155,7 +154,7 @@ CREATE TABLE app_config (
 );
 
 -- ---------------------------------------------------------------------
--- Indexes
+- Indexes
 -- ---------------------------------------------------------------------
 
 CREATE INDEX idx_user_profile_department  ON user_profile (department);
@@ -171,7 +170,7 @@ CREATE INDEX idx_mentor_designation_trgm ON mentor_profile
     USING gin (designation gin_trgm_ops);
 
 -- ---------------------------------------------------------------------
--- Seed data
+- Seed data
 -- ---------------------------------------------------------------------
 
 INSERT INTO app_role (role_key, description) VALUES
