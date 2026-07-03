@@ -1,7 +1,7 @@
 
-- Mentorship Platform - Sprint 1 schema (Flyway V1)
+- Mentorship Platform - Sprint 1 schema
 - PostgreSQL 13+ (gen_random_uuid() is built into core).
-- Set spring.jpa.hibernate.ddl-auto=validate so Flyway owns the schema.
+
 
 
 CREATE EXTENSION IF NOT EXISTS pg_trgm;   -- backs ILIKE mentor search (FTR-08)
