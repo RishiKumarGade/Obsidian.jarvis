@@ -133,7 +133,7 @@ CurrentFocusArea
 LastUpdated
 
 
-##### MenteeSkillMap
+##### MenteeSoughtSkillMap
 -------------------
 
 MenteeProfileId
