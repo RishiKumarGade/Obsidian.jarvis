@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "9417b7b4988ad4b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "830b3ecdbed32227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65c19540ac75d675",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0562ce4bc0d1077",
+    "type": "split",
+    "children": [
+      {
+        "id": "69211922a09fbcf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "735545e3f876de28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f2af364e6547846c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "da1495ffce7da712",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c181a29a940dda1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea4ba7d54323ab48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45e803e4f4c6e359",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "86b332db71cc1b5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "914685bbdacc0e9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4d4fc877d04d1903",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "32b4fd1a3ca18c41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "735545e3f876de28",
+  "lastOpenFiles": [
+    "Tag Reference.md",
+    "Navigate From Here.md",
+    "Work/Projects/Mentorship platform/Sprint 1.md",
+    "Work/Projects/Mentorship platform/Schema.md",
+    "Work/Projects/Mentorship platform/PPT.md",
+    "Work/Projects/Mentorship platform/Intuition and Features.md",
+    "Work/Projects/Mentorship platform/Problem Statement.md",
+    "Work/Projects/Mentorship platform/BA Questions.md",
+    "Work/Projects/Mentorship platform",
+    "Work/Projects",
+    "Work",
+    "Templates/time.md",
+    "Templates/datetime.md",
+    "Templates/Date.md",
+    "Templates",
+    "Calendar/Days/2026.06.08.md",
+    "Calendar/Days/2026.06.05.md",
+    "Calendar/Days",
+    "Calendar",
+    "Atlas/AI/Learn/roadmaps/AI Roadmap by Perplexity.md",
+    "Atlas/AI/Learn/roadmaps/AI Roadmap by Gemini.md",
+    "Atlas/AI/Learn/roadmaps/AI Roadmap by Deepseek.md",
+    "Atlas/AI/Learn/roadmaps/AI Roadmap by Claude.md",
+    "Atlas/AI/Learn/roadmaps/AI Roadmap by ChatGPT.md",
+    "Atlas/Projects/Aether/Aether.md",
+    "Atlas/Projects/Git CTF/Git CTF.md",
+    "Atlas/Cloud/Aws/AWS EC2.md",
+    "Atlas/Cloud/Aws/TODO  Services.md",
+    "Atlas/Cloud/Aws/AWS S3.md",
+    "Atlas/AI/Learn/Start From Here.md",
+    "Atlas/Cloud/Aws/AWS OpenSearch.md",
+    "Atlas/Cloud/Aws/AWS IAM.md",
+    "Atlas/AI/Learn/roadmaps",
+    "Atlas/Projects/Git CTF",
+    "Atlas/Projects/Aether",
+    "Atlas/Cloud/Aws"
+  ]
+}
