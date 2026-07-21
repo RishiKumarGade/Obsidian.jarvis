@@ -1,3 +1,4 @@
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -1024,3 +1025,4 @@ sections.forEach(s=>io.observe(s));
 </script>
 </body>
 </html>
+```
