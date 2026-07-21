@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/AI/Learn/roadmaps/AI Roadmap by Claude.md",
+                "file": "Atlas/AI/Learn/roadmaps/Final Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Roadmap by Claude"
+              "title": "Final Roadmap"
             }
           }
         ]
@@ -183,6 +183,8 @@
   },
   "active": "a737e3653cc8c8cd",
   "lastOpenFiles": [
+    "Atlas/AI/Learn/roadmaps/AI Roadmap by Claude.md",
+    "Atlas/AI/Learn/roadmaps/Final Roadmap.md",
     "Work/Projects/Mentorship platform/Schema.md",
     "Work/Projects/Mentorship platform/Sprint 1.md",
     "Tag Reference.md",
@@ -205,7 +207,6 @@
     "Atlas/AI/Learn/roadmaps/AI Roadmap by Perplexity.md",
     "Atlas/AI/Learn/roadmaps/AI Roadmap by Gemini.md",
     "Atlas/AI/Learn/roadmaps/AI Roadmap by Deepseek.md",
-    "Atlas/AI/Learn/roadmaps/AI Roadmap by Claude.md",
     "Atlas/AI/Learn/roadmaps/AI Roadmap by ChatGPT.md",
     "Atlas/Projects/Aether/Aether.md",
     "Atlas/Projects/Git CTF/Git CTF.md",
@@ -214,7 +215,6 @@
     "Atlas/Cloud/Aws/AWS S3.md",
     "Atlas/AI/Learn/Start From Here.md",
     "Atlas/Cloud/Aws/AWS OpenSearch.md",
-    "Atlas/Cloud/Aws/AWS IAM.md",
     "Atlas/AI/Learn/roadmaps",
     "Atlas/Projects/Git CTF",
     "Atlas/Projects/Aether",
