@@ -11,10 +11,14 @@
             "id": "bc11990038449f68",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/AI/Frontier AI Labs/Roles im targeting.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Roles im targeting"
             }
           }
         ]
@@ -177,8 +181,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "735545e3f876de28",
+  "active": "bc11990038449f68",
   "lastOpenFiles": [
+    "Start From Here.md",
+    "Atlas/AI/Frontier AI Labs/Roles im targeting.md",
     "Atlas/AI/Frontier AI Labs",
     "Atlas/AI/Learn/Learning Timeline.md",
     "Atlas/AI/Learn/Start From Here.md",
@@ -187,7 +193,6 @@
     "Work/Projects/Mentorship platform/Schema.md",
     "Work/Projects/Mentorship platform/Sprint 1.md",
     "Tag Reference.md",
-    "Start From Here.md",
     "Work/Projects/Mentorship platform/PPT.md",
     "Work/Projects/Mentorship platform/Intuition and Features.md",
     "Work/Projects/Mentorship platform/Problem Statement.md",
@@ -213,7 +218,6 @@
     "Atlas/Cloud/Aws/TODO  Services.md",
     "Atlas/AI/Learn/roadmaps",
     "Atlas/Projects/Git CTF",
-    "Atlas/Projects/Aether",
-    "Atlas/Cloud/Aws"
+    "Atlas/Projects/Aether"
   ]
 }
