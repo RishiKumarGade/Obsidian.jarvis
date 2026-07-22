@@ -1,28 +1,4 @@
 
-This is exactly the right next step.
-
-Before learning anything, you should understand **why these jobs exist**. Once you understand the purpose of each role, the roadmap becomes obvious.
-
-Think of a frontier AI company like OpenAI as building a Formula 1 car. One person doesn't build the entire car. Different experts own different layers of the system.
-
-Let's take the example of **ChatGPT**.
-
-```
-                   ChatGPT
-                      │
-     ┌────────────────┼────────────────┐
-     │                │                │
- Research        Engineering      Infrastructure
-     │                │                │
-     └────────────────┼────────────────┘
-                      │
-               Millions of GPUs
-```
-
-Now let's go role by role.
-
----
-
 # 1. Research Engineer ⭐⭐⭐⭐⭐
 
 ## Purpose
@@ -628,11 +604,3 @@ Let's imagine OpenAI wants to build **GPT-7**.
 |**GPU / Training Infrastructure Engineer**|Extracts maximum performance from hardware and training infrastructure.|
 |**Research Scientist**|Creates new algorithms and advances the state of the art in AI.|
 |**AI Safety / Alignment Engineer**|Ensures advanced AI systems behave reliably, safely, and according to intended objectives.|
-
----
-
-## One thing to keep in mind
-
-These roles are **not isolated**. At smaller companies, one engineer may wear multiple hats. At frontier labs, the boundaries are clearer, but collaboration is constant.
-
-Given your interests and long-term goal, I think the strongest trajectory is to **build toward Research Engineer and ML Systems Engineer first**. That foundation naturally supports Foundation Model work, GPU optimization, and eventually original research if you decide to pursue it.
