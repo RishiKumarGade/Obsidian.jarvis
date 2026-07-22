@@ -8,6 +8,9 @@ Project Idea [[Aether]]
 
 What should i become?
 related to AI but exactly i don't know.
+I will start researching on 
+
+
 
 
 
