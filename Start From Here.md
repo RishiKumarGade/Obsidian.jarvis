@@ -7,5 +7,7 @@ Project Idea [[Aether]]
 2026-07-22
 
 What should i become?
-related to AI but exactly i dont know
+related to AI but exactly i don't know.
+
+
 
