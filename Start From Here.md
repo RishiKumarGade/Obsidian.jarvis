@@ -11,8 +11,3 @@ related to AI but exactly i don't know.
 I will start researching on types of roles we have on AI
 
 
-
-
-
-
-
