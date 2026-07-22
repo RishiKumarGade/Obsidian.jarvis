@@ -194,17 +194,12 @@ Parallel Computing
 - FSDP
     
 - ZeRO
-    
 
 Performance
 
 - Profiling
-    
 - CUDA basics
-    
 - Memory optimization
-    
-
 ---
 
 ## Example Project
