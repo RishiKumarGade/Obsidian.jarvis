@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/AI/Learn/Learning Timeline.md",
+                "file": "Start From Here.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Timeline"
+              "title": "Start From Here"
             }
           }
         ]
@@ -183,13 +183,14 @@
   },
   "active": "0db16817cfd6f983",
   "lastOpenFiles": [
+    "Atlas/AI/Learn/Learning Timeline.md",
     "Atlas/AI/Learn/Start From Here.md",
     "Atlas/AI/Learn/roadmaps/Final Roadmap.md",
     "Atlas/AI/Learn/roadmaps/AI Roadmap by Claude.md",
     "Work/Projects/Mentorship platform/Schema.md",
     "Work/Projects/Mentorship platform/Sprint 1.md",
     "Tag Reference.md",
-    "Navigate From Here.md",
+    "Start From Here.md",
     "Work/Projects/Mentorship platform/PPT.md",
     "Work/Projects/Mentorship platform/Intuition and Features.md",
     "Work/Projects/Mentorship platform/Problem Statement.md",
@@ -214,7 +215,6 @@
     "Atlas/Cloud/Aws/AWS EC2.md",
     "Atlas/Cloud/Aws/TODO  Services.md",
     "Atlas/Cloud/Aws/AWS S3.md",
-    "Atlas/Cloud/Aws/AWS OpenSearch.md",
     "Atlas/AI/Learn/roadmaps",
     "Atlas/Projects/Git CTF",
     "Atlas/Projects/Aether",

@@ -17,6 +17,7 @@ Upskill myself - currently working on AWS , Docker
 </span>
 <span style="color:#179299; font-weight:700;">
  07:53
-</span>
-
+</span
 Project Idea [[Aether]]
+
+2026-07-22
