@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/AI/Frontier AI Labs/Roles im targeting.md",
+                "file": "Atlas/AI/Frontier AI Labs/Tasks Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roles im targeting"
+              "title": "Tasks Prompt"
             }
           }
         ]
@@ -181,10 +181,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "735545e3f876de28",
+  "active": "bc11990038449f68",
   "lastOpenFiles": [
-    "Atlas/AI/Frontier AI Labs/Domains I should study.md",
     "Atlas/AI/Frontier AI Labs/Roles im targeting.md",
+    "Atlas/AI/Frontier AI Labs/Tasks Prompt.md",
+    "Atlas/AI/Frontier AI Labs/Domains I should study.md",
     "Start From Here.md",
     "Atlas/AI/Frontier AI Labs",
     "Atlas/AI/Learn/Learning Timeline.md",
@@ -215,7 +216,6 @@
     "Atlas/AI/Learn/roadmaps/AI Roadmap by ChatGPT.md",
     "Atlas/Projects/Aether/Aether.md",
     "Atlas/Projects/Git CTF/Git CTF.md",
-    "Atlas/Cloud/Aws/AWS EC2.md",
     "Atlas/AI/Learn/roadmaps",
     "Atlas/Projects/Git CTF",
     "Atlas/Projects/Aether"
