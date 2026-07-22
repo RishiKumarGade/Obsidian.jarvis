@@ -591,11 +591,11 @@ Let's imagine OpenAI wants to build **GPT-7**.
 
 # If I were to summarize each role in one sentence
 
-|Role|One-Line Description|
-|---|---|
-|**Research Engineer**|Turns research ideas into working, measurable AI systems.|
-|**ML Systems Engineer**|Makes AI training and inference scale efficiently across massive compute clusters.|
-|**Foundation Model Engineer**|Improves the capabilities of large language and multimodal models.|
-|**GPU / Training Infrastructure Engineer**|Extracts maximum performance from hardware and training infrastructure.|
-|**Research Scientist**|Creates new algorithms and advances the state of the art in AI.|
-|**AI Safety / Alignment Engineer**|Ensures advanced AI systems behave reliably, safely, and according to intended objectives.|
+| Role                                       | One-Line Description                                                                       |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| **Research Engineer**                      | Turns research ideas into working, measurable AI systems.                                  |
+| **ML Systems Engineer**                    | Makes AI training and inference scale efficiently across massive compute clusters.         |
+| **Foundation Model Engineer**              | Improves the capabilities of large language and multimodal models.                         |
+| **GPU / Training Infrastructure Engineer** | Extracts maximum performance from hardware and training infrastructure.                    |
+| **Research Scientist**                     | Creates new algorithms and advances the state of the art in AI.                            |
+| **AI Safety / Alignment Engineer**         | Ensures advanced AI systems behave reliably, safely, and according to intended objectives. |

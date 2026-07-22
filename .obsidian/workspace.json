@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/AI/Frontier AI Labs/Domains I should study.md",
+                "file": "Atlas/AI/Frontier AI Labs/Roles im targeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domains I should study"
+              "title": "Roles im targeting"
             }
           }
         ]
@@ -181,10 +181,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bc11990038449f68",
+  "active": "735545e3f876de28",
   "lastOpenFiles": [
-    "Atlas/AI/Frontier AI Labs/Roles im targeting.md",
     "Atlas/AI/Frontier AI Labs/Domains I should study.md",
+    "Atlas/AI/Frontier AI Labs/Roles im targeting.md",
     "Start From Here.md",
     "Atlas/AI/Frontier AI Labs",
     "Atlas/AI/Learn/Learning Timeline.md",
