@@ -20,22 +20,22 @@ The mathematical foundation behind machine learning, optimization, probability, 
 
 **Major Areas**
 
-- Linear Algebra
-    
-- Calculus
-    
-- Probability
-    
-- Statistics
-    
-- Optimization
-    
-- Numerical Methods
-    
-- Information Theory
-    
-- Discrete Mathematics
-    
+	- Linear Algebra
+	    
+	- Calculus
+	    
+	- Probability
+	    
+	- Statistics
+	    
+	- Optimization
+	    
+	- Numerical Methods
+	    
+	- Information Theory
+	    
+	- Discrete Mathematics
+	    
 
 ---
 
